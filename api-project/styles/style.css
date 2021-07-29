@@ -1,1 +1,36 @@
-
+html {
+    background-color:rgb(107, 156, 221);
+    margin-left: 270px;
+    font-size: 25px;
+    color: lightyellow;
+    margin-top: 20px;;
+}
+input {
+    height: 35px;
+    border-radius: 10px;
+    outline: 0;
+    border-style: solid;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    border-color: rgb(107, 156, 221);
+}
+input:focus{
+    border-color:thistle;
+}
+button {
+    height: 30px;
+    border-radius: 10px;
+    outline: 0;
+    border-style: solid;
+   cursor: pointer;
+   margin: 10px;
+   margin-left: 174px;
+   border-color: white;
+   height: 32px;
+   width: 180px;
+  
+}
+button:hover{
+    background-color: rgb(107, 156, 221);
+    color: white;
+}
