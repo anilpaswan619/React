@@ -1,0 +1,27 @@
+h1,
+p {
+  font-family: sans-serif;
+}
+.secondHeading{
+  color: cadetblue;
+  margin: 15px;
+}
+.link {
+  margin: 15px;
+  text-decoration: none;
+  color: white;
+  background-color:cornflowerblue;
+  padding: 8px;
+  border-radius: 15px;
+}
+.link:hover {
+  font-weight: bold;
+  background-color: darkorange;
+}
+.clicked {
+  color:darkgoldenrod;
+}
+.rule {
+  margin-top: 30px;
+  font-weight: bold;
+}
